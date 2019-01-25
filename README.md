@@ -8,6 +8,7 @@ This only works with 64-bit devices running 12.0 - 12.1.2
 - If you're interested in bootstrapping iOS kernel security research (including the ability to forge PACs and call arbitrary kernel functions), keep an A7-A12 research device on iOS 12.1.2 or lower.
 
 - These firmwares are vulnerable
+- 11.x (N/A) (may be able to backport)
 - 12.0 (16A366)
 - 12.0.1(16A404)
 - 12.1(16B92)
