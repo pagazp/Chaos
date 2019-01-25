@@ -10,11 +10,11 @@ This only works with 64-bit devices running 12.0 - 12.1.2
 - These firmwares are vulnerable
 - 11.x (N/A) (may be able to backport)
 - 12.0 (16A366)
-- 12.0.1(16A404)
-- 12.1(16B92)
-- 12.1.1(16C50)
-- 12.1.2(16C101)
-- 12.1.2(16C104)
+- 12.0.1 (16A404)
+- 12.1 (16B92)
+- 12.1.1 (16C50)
+- 12.1.2 (16C101)
+- 12.1.2 (16C104)
 
 - Incompatible firmwares
 - 12.1.3 and higher
