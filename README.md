@@ -19,7 +19,9 @@ This only works with 64-bit devices running 12.0 - 12.1.2
 - iPhone 6/6+
 - iPhone 7/7+
 - iPhone 8/8+
-- iPhone X/XS/XSMax/XR
+- iPhone X
+- iPhone XS/XS Max
+- iPhone XR
 - Some iPads (not tested)
 - iPod 6th Gen (not tested)
 
