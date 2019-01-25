@@ -27,3 +27,4 @@ This only works with 64-bit devices running 12.0 - 12.1.2
 
 - Downgrade from 12.1.3(16D39) to 12.1.2(16C104) or lower
 - If you're on 11.4 - 11.4.1 stay there! tihmstar is working on something. #etason
+- If you're on 11.0 - 11.4(b3) (jailbroken) just save shsh and stay where you are. You can update to 12.1.2 if you really want to.
