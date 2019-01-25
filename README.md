@@ -1,4 +1,4 @@
-# Chaos exploit for iOS 12.0 through 12.1.2 PoC & Writeup
+# Chaos kernel bug for iOS 12.0 through 12.1.2 PoC & Writeup (CVE-2019-6225)
 - Read everything please.
 This only works with 64-bit devices running 12.0 - 12.1.2
 - Writeup by @haxoorr (me) I made a clean writeup because the original PoC was posted as an image.
