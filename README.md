@@ -20,14 +20,15 @@ This only works with 64-bit devices running 12.0 - 12.1.2
 - 12.1.3 and higher
 
 - Should work on those devices.
-- iPhone 5s/SE
-- iPhone 6/6+
-- iPhone 7/7+
-- iPhone 8/8+
-- iPhone X
-- iPhone XS/XS Max
-- iPhone XR
-- iPad Air and higher (not tested)
+- iPhone 5s/SE (not tested)
+- iPhone 6/6+ (not tested)
+- iPhone 7/7+ (confirmed)
+- iPhone 8/8+ (confirmed)
+- iPhone X (confirmed)
+- iPhone XS/XS Max (confirmed)
+- iPhone XR (not tested)
+- iPad 5th Gen (confirmed)
+- All Other iPads (not tested)
 - iPod 6th Gen (not tested)
 
 - Downgrade from 12.1.3(16D39) to 12.1.2(16C104) or lower
