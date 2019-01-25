@@ -2,7 +2,7 @@
 - Read everything please.
 This only works with 64-bit devices running 12.0 - 12.1.2
 - Writeup by @haxoorr (me) I made a clean writeup because the original PoC was posted as an image.
-- Original PoC by @s0rrymybad
+
 - Fixed in iOS 12.1.3 (16D39)
 
 - If you're interested in bootstrapping iOS kernel security research (including the ability to forge PACs and call arbitrary kernel functions), keep an A7-A12 research device on iOS 12.1.2 or lower.
