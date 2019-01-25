@@ -15,6 +15,10 @@ This only works with 64-bit devices running 12.0 - 12.1.2
 - 12.1.1(16C50)
 - 12.1.2(16C101)
 - 12.1.2(16C104)
+
+- Incompatible firmwares
+- 12.1.3 and higher
+
 - Should work on those devices.
 - iPhone 5s/SE
 - iPhone 6/6+
