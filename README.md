@@ -22,7 +22,7 @@ This only works with 64-bit devices running 12.0 - 12.1.2
 - iPhone X
 - iPhone XS/XS Max
 - iPhone XR
-- Some iPads (not tested)
+- iPad Air and higher (not tested)
 - iPod 6th Gen (not tested)
 
 - Downgrade from 12.1.3(16D39) to 12.1.2(16C104) or lower
