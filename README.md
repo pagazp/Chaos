@@ -7,14 +7,14 @@ This only works with 64-bit devices running 12.0 - 12.1.2
 
 - If you're interested in bootstrapping iOS kernel security research (including the ability to forge PACs and call arbitrary kernel functions), keep an A7-A12 research device on iOS 12.1.2 or lower.
 
-- Confirmed to work on...
+- Works on those listed firmwares.
 - 12.0 (16A366)
 - 12.0.1(16A404)
 - 12.1(16B92)
 - 12.1.1(16C50)
 - 12.1.2(16C101)
 - 12.1.2(16C104)
-
+- Should work on those devices.
 - iPhone 5s/SE
 - iPhone 6/6+
 - iPhone 7/7+
@@ -29,8 +29,9 @@ This only works with 64-bit devices running 12.0 - 12.1.2
 - If you're on 11.4 - 11.4.1 stay there! tihmstar is working on something. #etason
 - If you're on 11.0 - 11.4(b3) (jailbroken) just save shsh and stay where you are. You can update to 12.1.2 if you really want to.
 
-- CVE Details Kernel
+- CVE Details
 
+- Kernel
 Available for: iPhone 5s and later, iPad Air and later, and iPod touch 6th generation
 
 Impact: A malicious application may be able to elevate privileges
